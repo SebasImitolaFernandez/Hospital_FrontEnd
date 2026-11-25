@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nurses</string>
+
+    <!-- ===== Pantalla Home (prefijo home_) ===== -->
+    <string name="home_title">Nurses</string>
+    <string name="home_subtitle">Gestión de enfermeros</string>
+    <string name="home_icon_desc">Icono de la aplicación Nurses</string>
+    <string name="home_btn_show_welcome">Mostrar bienvenida</string>
+    <string name="home_btn_hide_welcome">Ocultar bienvenida</string>
+    <string name="home_welcome_message">¡Hola! Desde aquí puedes iniciar sesión, ver la lista de enfermeros o buscar uno por nombre.</string>
+    <string name="home_btn_login">Iniciar sesión</string>
+    <string name="home_btn_list">Listar enfermeros</string>
+    <string name="home_btn_search">Buscar enfermero</string>
+</resources>
